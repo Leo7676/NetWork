@@ -3,4 +3,7 @@
 <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
 <fullyQualifiedTypeName name="org.jb2011.lnf.beautyeye.BeautyEyeLNFHelper"/>
 <fullyQualifiedTypeName name="org.jb2011.lnf.beautyeye.ch3_button.BEButtonUI"/>
+<fullyQualifiedTypeName name="org.apache.http.HttpResponse"/>
+<fullyQualifiedTypeName name="org.apache.http.client.methods.HttpGet"/>
+<fullyQualifiedTypeName name="org.apache.http.impl.client.DefaultHttpClient"/>
 </qualifiedTypeNameHistroy>
